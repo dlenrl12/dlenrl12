@@ -1,6 +1,7 @@
 ### Hi there 👋
 - My major is computer science engineering
 - Recently, my interest is VR.
+- What I'm learnig now is actual coding
 <!--
 **dlenrl12/dlenrl12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
